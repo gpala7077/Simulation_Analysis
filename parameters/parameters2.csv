@@ -1,0 +1,2 @@
+weeks,num_thieves,heist_coefficient,promotion_wealth,jailed_thieves,num_detectives,solve_init,solve_cap,seizes_first,seizes_thereafter,initial_risk,initial_bribe
+500,7,1000,1000000,3,5,.25,0.75,1000000,1000000,0.05,0.1
